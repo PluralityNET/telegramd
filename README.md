@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/github/license/nebula-chat-fork/telegramd.svg)](https://github.com/nebula-chat-fork/telegramd/blob/master/LICENSE)
+
 # Telegramd - Unofficial open source telegram server written in golang
 > 打造高性能、稳定并且功能完善的开源telegram服务端，建设开源telegram客户端生态系统非官方首选服务！
 
