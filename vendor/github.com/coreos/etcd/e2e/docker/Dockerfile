@@ -1,4 +1,4 @@
-FROM golang:1.8.4-stretch
+FROM golang:1.17rc1-stretch
 
 RUN apt-get -y update
 RUN apt-get -y install \
